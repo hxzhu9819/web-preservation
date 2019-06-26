@@ -17,11 +17,13 @@
 - In order to preserve the webpages in the **worst** case, in which all the files on the web are missing (not very possible though), the following examples are displayed with Internet turned off, and are hosted on port 8000 locally.
 - Some BBC news article: https://www.bbc.com/sport/winter-olympics/48748380
 ![](screenshots/ex_bbc.png)
-Note that only the important images are stored. The images in "Top Stories" bar, which serve as a recommendation to users are declared by our algorithm as unimportant, and thus are not collected.
+Note that only the important images are preserved. The images in "Top Stories" bar, which serve as a recommendation to readers are declared by our algorithm as unimportant, and thus are not collected.
+<br/>
 - Some Fox article: https://www.foxnews.com/politics/john-mccain-dead-at-81
 ![](screenshots/ex_fox1.png)
 ![](screenshots/ex_fox2.png)
-Note that the large black rectangle in the above screenshot is  a video. Currently the videos are not stored.
+Note that the large black rectangle in the above screenshot is  a video. Currently the videos are not stored. Also only important image is preserved in this case.
+<br/>
 - Some Wiki page: https://en.wikipedia.org/wiki/Wakanda
 ![](screenshots/ex_wiki.png)
 
