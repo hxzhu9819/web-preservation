@@ -1,0 +1,5 @@
+version 06.26.2019
+Implemented images selection partially (without checking all parent nodes).
+
+version 06.25.2019
+Implemented lazy-loading images replacement (testing needed).
