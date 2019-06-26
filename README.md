@@ -17,7 +17,7 @@
 - In order to preserve the webpages in the **worst** case, in which all the files on the web are missing (not very possible though), the following examples are displayed with Internet turned off, and are hosted on port 8000 locally.
 - Some BBC news article: https://www.bbc.com/sport/winter-olympics/48748380
 ![](screenshots/ex_bbc.png)
-Note that only the important images are preserved. The images in "Top Stories" bar, which serve as a recommendation to readers are declared by our algorithm as unimportant, and thus are not collected.
+Note that only the important images are preserved. The images in "Top Stories" bar, which serve as a recommendation to readers, are declared by our algorithm as unimportant, and thus are not collected.
 
 - Some Fox article: https://www.foxnews.com/politics/john-mccain-dead-at-81
 ![](screenshots/ex_fox1.png)
